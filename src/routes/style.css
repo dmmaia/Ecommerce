@@ -1,0 +1,8 @@
+.showcase{
+    max-width: 330px;
+    padding: 18px;
+    background-color: rgb(204, 204, 204);
+}
+.showcase img{
+    max-width: 290px;
+}
