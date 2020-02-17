@@ -22,7 +22,7 @@ export default class Main extends Component {
     render(){
       return (
         <div className="contentMain">
-          <img src={banner}/>
+          <img className='banner' src={banner}/>
           <div className='show'>
           <Container>
             <Row>
