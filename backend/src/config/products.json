@@ -1,0 +1,10 @@
+{
+    "products": [
+        {
+            "id" : 1,
+            "title": "Smartphone Samsung Galaxy A10 SM-A105M 32GB",
+            "description": "Um ótimo Smartphone!",
+            "price": 750
+        }
+    ]
+}
